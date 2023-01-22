@@ -1,4 +1,4 @@
-# toastify
+# js-toasts
 a javascript library for creating toasts (pop up notifications) on your website
 
 there is two functions:
